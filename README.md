@@ -1,4 +1,4 @@
-# simple-online-survey-system_0
+# Simple Online Survey System
 
 Username: admin@admin.com
 Password: admin123
